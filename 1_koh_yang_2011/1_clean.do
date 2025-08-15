@@ -4,10 +4,10 @@ clear
 set more off
 cd ~
 
-/* conver the raw csv to dta */
-forval year = 2006/2013 {
+	* 0. We will need to merge KHIES data with cpi data (bok_cpi_all_2000-2013.xlsx)
+	* 0-1. First, prepare CPI data. load bok_cpi_all_2000-2013.xlsx and save it as .dta file. 
+
+import excel using "bok_cpi_all_2000-2013.xlsx", firstrow clear
 	
-  clear
-	do "분기자료(1990~2016)_`year'_20210906"
-	save "`year'.dta", replace
-}
+tempfile cpi
+save `cpi', replace
