@@ -1,6 +1,6 @@
 # korea-microdata
 
-This project aims to replicate empirical studies using micro-level data from Korea. It was initially developed as class material for the course "Microdata Analytics for Public Policy" at the KDI School of Public Policy and Management, taught by Professor Jisun Baek. This version was created in 2021 while I served as a research assistant for the professor and was updated until 2024, when I worked as a teaching assistant for the class. Please note that the class material may have been modified since then, and thus, current materials can be different from this version.
+This project aims to replicate empirical studies using micro-level data of South Korea. It was initially developed as class material for the course "Korea's Microdata Analytics for Public Policy" at [KDI School of Public Policy and Management](https://www.kdischool.ac.kr/), taught by [Professor Jisun Baek](https://sites.google.com/site/jisunbaekeconomics). This version was created in 2021 while I served as a research assistant for the professor and was updated until 2024, when I worked as a teaching assistant for the class. Please note that the class material may have been modified since then, and thus, current materials can be different from this version.
 
 Although I haven't uploaded the raw data, I have provided intermediate datasets that are generated using the commands included here. Most of the replicated papers utilize public data sources, which are easily accessible, allowing you to test the data cleaning commands as well.
 
