@@ -5,3 +5,5 @@ In 2008, South Korea introduced Basic Old-Age Pension (BOAP), means-tested socia
 The code here replicates Figure 1, 2, Table 1 (col 1-4 on panel A and D), and Table 2 (col 1-2) of the paper.
 
 The raw data (Korea Household Income and Expenditure Survey, 2006-2013) can be downloaded from the MDIS system of Statistics Korea.
+
+* supplementary data : CPI from Bank of Korea (bok_cpi_all_2000-2013.xlsx)
