@@ -7,3 +7,7 @@ The code here replicates Figure 1, 2, Table 1 (col 1-4 on panel A and D), and Ta
 The raw data (Korea Household Income and Expenditure Survey, 2006-2013) can be downloaded from the MDIS system of Statistics Korea.
 
 * supplementary data : CPI from Bank of Korea (bok_cpi_all_2000-2013.xlsx)
+* supplementary code
+    - khies_eng_2006-2011.do (for labeling in eng)
+    - khies_eng_2012-2013.do (for labeling in eng)
+    - khies_renamevars.do (for renaming vars)
